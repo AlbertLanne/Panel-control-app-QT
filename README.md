@@ -10,33 +10,11 @@
 
 ***Object diagram***
 
-[![INSERT YOUR GRAPHIC HERE](http://i.imgur.com/dt8AUb6.png)]()
 
-- Most people will glance at your `README`, *maybe* star it, and leave
-- Ergo, people should understand instantly what your project is about based on your repo
+[![The diagram of the structure project]https://i.imgur.com/iI6H5mV.png)]()
 
-> Tips
 
-- HAVE WHITE SPACE
-- MAKE IT PRETTY
-- GIFS ARE REALLY COOL
-
-> GIF Tools
-
-- Use <a href="http://recordit.co/" target="_blank">**Recordit**</a> to create quicks screencasts of your desktop and export them as `GIF`s.
-- For terminal sessions, there's <a href="https://github.com/chjj/ttystudio" target="_blank">**ttystudio**</a> which also supports exporting `GIF`s.
-
-**Recordit**
-
-![Recordit GIF](http://g.recordit.co/iLN6A0vSD8.gif)
-
-**ttystudio**
-
-![ttystudio GIF](https://raw.githubusercontent.com/chjj/ttystudio/master/img/example.gif)
-
----
-
-## Table of Contents (Optional)
+## Table of Contents 
 
 > If your `README` has a lot of info, section headers might be nice.
 
@@ -53,27 +31,28 @@
 
 ## Example (Optional)
 
-```javascript
-// code away!
+```cpp
+// global
+    QSqlDatabase db = QSqlDatabase::addDatabase("QMYSQL");
+// global
+    db.setHostName("0.0.0.0");
+    db.setDatabaseName("gestmagasin");
+    db.setUserName("root");
+    db.setPassword("123");
+    qDebug()<< "Status =>("<<db.open() <<") if true, the connection work";
 
-let generateProject = project => {
-  let code = [];
-  for (let js = 0; js < project.length; js++) {
-    code.push(js);
-  }
-};
 ```
 
 ---
 
 ## Installation
 
-- All the `code` required to get started
-- Images of what it should look like
+-You need to have QT Creator
+-Docker
 
 ### Clone
 
-- Clone this repo to your local machine using `https://github.com/fvcproductions/SOMEREPO`
+- Clone this repo to your local machine using `https://github.com/AlbertLanne/QtBddApp.git`
 
 ### Setup
 
