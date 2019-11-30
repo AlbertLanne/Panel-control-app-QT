@@ -1,9 +1,9 @@
 <a href="http://fvcproductions.com"><img src="https://i.imgur.com/NQbBWTp.png" title="c++ app made in qt" alt="docker container SQL"></a>
 
 
-# QtBddApp
+# QtBddApp  
 
-> A Boilerplate project of a Qt app made in cpp, using a SQL docker container.
+> A Boilerplate project of a Qt app made in cpp, using a SQL docker container using a BDD (Database).
 
 [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) [![Coverage Status](http://img.shields.io/coveralls/badges/badgerbadgerbadger.svg?style=flat-square)](https://coveralls.io/r/badges/badgerbadgerbadger)
  [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
@@ -11,7 +11,7 @@
 ***Object diagram***
 
 
-[![The diagram of the structure project]https://i.imgur.com/iI6H5mV.png)]()
+[![The diagram of the structure project](https://i.imgur.com/iI6H5mV.png)]()
 
 
 ## Table of Contents 
@@ -29,7 +29,7 @@
 
 ---
 
-## Example (Optional)
+## Example Connection to a DB
 
 ```cpp
 // global
@@ -48,11 +48,16 @@
 ## Installation
 
 -You need to have QT Creator
+
 -Docker
 
 ### Clone
 
 - Clone this repo to your local machine using `https://github.com/AlbertLanne/QtBddApp.git`
+
+
+## <h1> == Part in construction == </h1> 
+
 
 ### Setup
 
@@ -104,7 +109,7 @@ $ bower install
 
 ### Step 3
 
-- 🔃 Create a new pull request using <a href="https://github.com/joanaz/HireDot2/compare/" target="_blank">`https://github.com/joanaz/HireDot2/compare/`</a>.
+- 🔃 Create a new pull request using <a href="https://github.com/AlbertLanne/QtBddApp" target="_blank">`https://github.com/AlbertLanne/QtBddApp`</a>.
 
 ---
 
@@ -114,8 +119,8 @@ $ bower install
 
 | <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> | <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> | <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> |
 | :---: |:---:| :---:|
-| [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com)    | [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) | [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com)  |
-| <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> |
+| [![FVCproductions](https://avatars3.githubusercontent.com/u/45398579?s=460&v=4)](http://albertfoundation.com/)    | [![AlbertL](https://avatars1.githubusercontent.com/u/45399820?s=200&v=4)](http://albertfoundation.com/) | [![FVCproductions](https://avatars1.githubusercontent.com/u/45399820?s=200&v=4)](http://albertfoundation.com/)  |
+| <a href="https://github.com/AlbertLanne" target="_blank">`github.com/AlbertLanne`</a> | <a href="https://github.com/AlbertLanne" target="_blank">`github.com/AlbertLanne`</a> | <a href="https://github.com/AlbertLanne" target="_blank">`github.com/AlbertLanne`</a> |
 
 - You can just grab their GitHub profile image URL
 - You should probably resize their picture using `?s=200` at the end of the image URL.
@@ -139,19 +144,11 @@ Reach out to me at one of the following places!
 
 ---
 
-## Donations (Optional)
-
-- You could include a <a href="https://cdn.rawgit.com/gratipay/gratipay-badge/2.3.0/dist/gratipay.png" target="_blank">Gratipay</a> link as well.
-
-[![Support via Gratipay](https://cdn.rawgit.com/gratipay/gratipay-badge/2.3.0/dist/gratipay.png)](https://gratipay.com/fvcproductions/)
-
-
----
 
 ## License
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2015 © <a href="http://fvcproductions.com" target="_blank">FVCproductions</a>.
+
 
