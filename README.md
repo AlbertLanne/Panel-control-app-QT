@@ -113,20 +113,6 @@ $ bower install
 
 ---
 
-## Team
-
-> Or Contributors/People
-
-| <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> | <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> | <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> |
-| :---: |:---:| :---:|
-| [![FVCproductions](https://avatars3.githubusercontent.com/u/45398579?s=460&v=4)](http://albertfoundation.com/)    | [![AlbertL](https://avatars1.githubusercontent.com/u/45399820?s=200&v=4)](http://albertfoundation.com/) | [![FVCproductions](https://avatars1.githubusercontent.com/u/45399820?s=200&v=4)](http://albertfoundation.com/)  |
-| <a href="https://github.com/AlbertLanne" target="_blank">`github.com/AlbertLanne`</a> | <a href="https://github.com/AlbertLanne" target="_blank">`github.com/AlbertLanne`</a> | <a href="https://github.com/AlbertLanne" target="_blank">`github.com/AlbertLanne`</a> |
-
-- You can just grab their GitHub profile image URL
-- You should probably resize their picture using `?s=200` at the end of the image URL.
-
----
-
 ## FAQ
 
 - **How do I do *specifically* so and so?**
