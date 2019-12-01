@@ -50,6 +50,7 @@
 -You need to have QT Creator
 
 -Docker
+https://hub.docker.com/r/mysql/mysql-server/
 
 ### Clone
 
