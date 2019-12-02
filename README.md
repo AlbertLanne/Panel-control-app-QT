@@ -1,4 +1,4 @@
-<a href="http://fvcproductions.com"><img src="https://i.imgur.com/NQbBWTp.png" title="c++ app made in qt" alt="docker container SQL"></a>
+<a><img src="https://i.imgur.com/NQbBWTp.png" title="c++ app made in qt" alt="docker container SQL"></a>
 
 
 # QtBddApp  
@@ -68,7 +68,8 @@ https://hub.docker.com/r/mysql/mysql-server/
 
 ```shell
 $ brew update
-$ brew install fvcproductions
+$ brew install 
+
 ```
 
 > now install npm and bower packages
@@ -125,8 +126,7 @@ $ bower install
 
 Reach out to me at one of the following places!
 
-- Website at <a href="http://fvcproductions.com" target="_blank">`fvcproductions.com`</a>
-- Twitter at <a href="http://twitter.com/fvcproductions" target="_blank">`@fvcproductions`</a>
+
 - Insert more social links here.
 
 ---
