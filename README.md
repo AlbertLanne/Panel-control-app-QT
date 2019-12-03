@@ -52,6 +52,9 @@
 -Docker
 https://hub.docker.com/r/mysql/mysql-server/
 
+docker exec -it mysql1 mysql -uroot -p
+connect to the docker 
+root password 123
 ### Clone
 
 - Clone this repo to your local machine using `https://github.com/AlbertLanne/QtBddApp.git`
