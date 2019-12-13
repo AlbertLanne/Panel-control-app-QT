@@ -1,3 +1,4 @@
+# This project is in stand by because I have a problem to add a MySQL container correctly to the repo  any help would be welcome
 <a><img src="https://i.imgur.com/NQbBWTp.png" title="c++ app made in qt" alt="docker container SQL"></a>
 
 
